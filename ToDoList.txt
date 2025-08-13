@@ -1,0 +1,41 @@
+VISUAL
+
+(Batalha screen)
+✅ arrumar layout de botões / névoa (cima)
+✅ mudar sprites dos botões (específicos)
+✅ mostrar stats: ataque, defesa, evasão, itens
+✅~ animação de introdução de inimigo (!)
+
+(Main screen)
+sprites das paredes
+
+(Inventario)
+Fazer
+
+===============================
+CÓDIGO
+
+(todos)
+aumentar a legibilidade e organização
+fazer getters e setters
+
+(Main screen)
+fazer bot não andar na diagonal (Vector2 rand)
+colisão com a parede
+aumentar quantidade de bots
+colisão com bots -> Battalha screen
+
+(Inventario)
+Fazer
+
+================================
+PASTAS
+
+organização de sprites em pastas (mudar paths tbm)
+
+================================
+
+
+2560/640 = x/y
+2560y = 640x
+y = 640*x/2560
